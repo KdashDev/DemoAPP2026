@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer circle/shield for depth -->
+    <path
+        android:fillColor="#33FFFFFF"
+        android:pathData="M54,20 A34,34 0 1,1 53.99,20 Z" />
+
+    <!-- Styled 'D' logo -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,34 L58,34 C66,34 72,40 72,48 L72,60 C72,68 66,74 58,74 L38,74 L38,34 Z M46,42 L46,66 L58,66 C62,66 64,64 64,60 L64,48 C64,44 62,42 58,42 L46,42 Z" />
+
+    <!-- Dot for a modern feel -->
+    <path
+        android:fillColor="#03DAC6"
+        android:pathData="M64,60 A4,4 0 1,1 63.99,60 Z" />
+</vector>
